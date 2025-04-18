@@ -24,7 +24,7 @@ cd CalculadoraRaster
 
 
 Execute o script principal:
-python calculadora_raster.py
+python CalculadoraRaster.py
 
 
 Na interface:
